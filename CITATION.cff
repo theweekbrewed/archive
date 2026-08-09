@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+title: "The Week, Brewed — the archive"
+message: >-
+  If you cite or reuse an issue, please cite the issue itself (title and date)
+  and link to theweekbrewed.com. Quoted material from other news organizations
+  should be credited to its original publisher.
+type: dataset
+abstract: >-
+  Every published issue of The Week, Brewed — a weekly Sunday news digest —
+  committed as published, with the sources behind each story. Corrections are
+  appended as new commits; the original text is never rewritten.
+authors:
+  - name: "The Week, Brewed"
+    website: "https://theweekbrewed.com"
+url: "https://theweekbrewed.com"
+repository-code: "https://github.com/theweekbrewed/archive"
+license: CC-BY-4.0
+keywords:
+  - news
+  - newsletter
+  - journalism
+  - archive
+  - provenance
